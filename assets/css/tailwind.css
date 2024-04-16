@@ -3718,6 +3718,10 @@ input:checked + .toggle-bg{
     position: static;
   }
 
+  .md\:z-auto{
+    z-index: auto;
+  }
+
   .md\:mx-auto{
     margin-left: auto;
     margin-right: auto;
